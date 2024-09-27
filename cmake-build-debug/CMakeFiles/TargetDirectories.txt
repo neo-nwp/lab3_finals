@@ -1,0 +1,5 @@
+/home/neko/lab3finals/cmake-build-debug/CMakeFiles/prog1.dir
+/home/neko/lab3finals/cmake-build-debug/CMakeFiles/prog2.dir
+/home/neko/lab3finals/cmake-build-debug/CMakeFiles/prog3.dir
+/home/neko/lab3finals/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/neko/lab3finals/cmake-build-debug/CMakeFiles/rebuild_cache.dir
